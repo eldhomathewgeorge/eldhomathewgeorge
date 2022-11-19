@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eldho
 .
-- 🌱 I’m Goal oriented front end web developer with thorough knowledge of the basic languages. 
+- 🌱 I’m a goal oriented front end web developer with thorough knowledge of the basic languages. 
 - I make it my goal to create websites with the user in mind, creating applications with a usable and intuitive user interface experience.
 -  I also understand the importance of creating highly readable and easily maintainable source code. 
 -  I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry.
